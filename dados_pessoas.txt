@@ -1,2 +1,10 @@
 1,Ricardo,1.98,85.0
 2,Teste,1.67,67.0
+3,Ana Souza,1.65,48.0
+4,Carlos Lima,1.80,82.0
+5,Mariana Costa,1.62,58.0
+6,João Pereira,1.75,95.0
+7,Fernanda Alves,1.58,92.0
+8,Pedro Santos,1.72,125.0
+9,Luiza Rocha,1.70,52.0
+10,Gabriel Martins,1.85,90.0
